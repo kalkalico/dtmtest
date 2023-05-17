@@ -1,0 +1,12 @@
+/**
+    * @name Arial Font
+    * @version 1.0.0
+    * @description for my pippy pip~
+    * @author kalico
+**/
+
+:root {
+    --font-primary: "Arial", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "Arial", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-headline: "Arial", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
