@@ -9553,3 +9553,34 @@ html[lang^=en-].theme-dark .toolbar-3_r2xA .iconWrapper-2awDjA.cursorPointer-B3u
     flex-shrink: 0;
     padding-right: 16px;
 }
+.folder-241Joy, .folderIconWrapper-1oRIZr {
+    width: 48px;
+    height: 48px;
+    -webkit-transition: background-color .15s ease-out;
+    transition: background-color .15s ease-out;
+    padding-left: 4px;
+}
+.guilds-2JjMmN {
+    position: relative;
+    width: 68px!important;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    /* padding-right: 16px; */
+}
+.theme-dark .guilds-2JjMmN .listItem-3SmSlK:hover .wrapper-3kah-n::before, .theme-dark .guilds-2JjMmN .listItem-3SmSlK .wrapper-3kah-n.selected-1Drb7Z::before {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 4px;
+    left: 4px;
+    background-color: rgba(255, 255, 255, 0.0837);
+    border-radius: 4px;
+    z-index: -1;
+    margin-left: 6px;
+}
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+    color: var(--white-500);
+    background-color: var(--brand-experiment);
+    padding-right: 6px;
+}
