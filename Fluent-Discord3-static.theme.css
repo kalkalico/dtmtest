@@ -9528,3 +9528,28 @@ html[lang^=en-].theme-dark .toolbar-3_r2xA .iconWrapper-2awDjA.cursorPointer-B3u
   border-color: rgba(255, 255, 255, 0.0698);
   border-bottom-color: hsl(var(--fluent-accent-hue-sat), var(--fluent-accent-lightness));
 }
+.platform-osx .scroller-3X7KbA, .platform-win .scroller-3X7KbA {
+    padding-top: 4px;
+    padding-left: 4px;
+}
+.childWrapper-1j_1ub, .wrapper-3kah-n {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 48px;
+    height: 48px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 6px;
+}
+.guilds-2JjMmN {
+    position: relative;
+    width: 72px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    padding-right: 16px;
+}
