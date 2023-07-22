@@ -44,7 +44,7 @@
                            Settings
 ---------------------------------------------------------------*/
 :root {
-    --wallpaper-is: none; /* Wallpaper - Replace de url only */
+    --wallpaper-is: url(https://cdn.discordapp.com/attachments/631304698250395663/1132220493844463637/AbstractPurpleWallpapers2-2371762029.jpg); /* Wallpaper - Replace de url only */
     --blur-size: 24px; /* Amount of blur in pixels [24px is default] */
     --opacity-thing: 0.6; /* Value from 0 to 1 [0.6 is default] */
     --server-size: 48px; /* The size of the server icons [48px is default] */
