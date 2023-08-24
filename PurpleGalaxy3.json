@@ -1,5 +1,5 @@
 {
-    "name": "PurpleGalaxy v2",
+    "name": "PurpleGalaxy v2b",
     "description": "A light purple sky theme, but fixed a little",
     "authors": [
         {
@@ -161,7 +161,7 @@
     "YELLOW_300": "#fbd1e6",
     "GREEN_360": "#D793B5",
     "DANGER": "#625682",
-    "RED_400": "#D793B5"
+    "RED_400": "#D793B5",
     "BLACK_500": "#000000",
     "BLACK_530": "#000000",
     "BLACK_560": "#000000",
