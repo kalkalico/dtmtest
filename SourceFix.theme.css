@@ -1,0 +1,11 @@
+/**
+ * @name Vencord Source Fix
+ * @author kalkalico
+ * @authorLink https://github.com/kalkalico
+ * @description A simple theme to hide fix huge plugin source icons in Vencord/Equicord
+ * @version 1.0
+*/
+
+.vc-plugins-source {
+    width: 20px !important;
+}
