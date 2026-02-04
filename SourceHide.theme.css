@@ -1,11 +1,11 @@
 /**
- * @name Vencord Source Hide
+ * @name Music Note Hide
  * @author kalkalico
  * @authorLink https://github.com/kalkalico
- * @description A simple theme to hide the source icons for Vencord/Equicord, for cases where they bug out and become HUGE.
+ * @description A simple theme to hide the music note in lyrics.
  * @version 1.0
 */
 
-.vc-plugins-source {
+.vc-spotify-lyrics-music-note {
     display: none;
 }
